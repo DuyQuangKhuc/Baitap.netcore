@@ -1,0 +1,15 @@
+D:\hoclai.net\Baitap\Baitap.netcore\BAI16B\bin\Debug\net6.0\BAI15B.exe
+D:\hoclai.net\Baitap\Baitap.netcore\BAI16B\bin\Debug\net6.0\BAI15B.deps.json
+D:\hoclai.net\Baitap\Baitap.netcore\BAI16B\bin\Debug\net6.0\BAI15B.runtimeconfig.json
+D:\hoclai.net\Baitap\Baitap.netcore\BAI16B\bin\Debug\net6.0\BAI15B.dll
+D:\hoclai.net\Baitap\Baitap.netcore\BAI16B\bin\Debug\net6.0\BAI15B.pdb
+D:\hoclai.net\Baitap\Baitap.netcore\BAI16B\obj\Debug\net6.0\BAI15B.csproj.AssemblyReference.cache
+D:\hoclai.net\Baitap\Baitap.netcore\BAI16B\obj\Debug\net6.0\BAI15B.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoclai.net\Baitap\Baitap.netcore\BAI16B\obj\Debug\net6.0\BAI15B.AssemblyInfoInputs.cache
+D:\hoclai.net\Baitap\Baitap.netcore\BAI16B\obj\Debug\net6.0\BAI15B.AssemblyInfo.cs
+D:\hoclai.net\Baitap\Baitap.netcore\BAI16B\obj\Debug\net6.0\BAI15B.csproj.CoreCompileInputs.cache
+D:\hoclai.net\Baitap\Baitap.netcore\BAI16B\obj\Debug\net6.0\BAI15B.dll
+D:\hoclai.net\Baitap\Baitap.netcore\BAI16B\obj\Debug\net6.0\refint\BAI15B.dll
+D:\hoclai.net\Baitap\Baitap.netcore\BAI16B\obj\Debug\net6.0\BAI15B.pdb
+D:\hoclai.net\Baitap\Baitap.netcore\BAI16B\obj\Debug\net6.0\BAI15B.genruntimeconfig.cache
+D:\hoclai.net\Baitap\Baitap.netcore\BAI16B\obj\Debug\net6.0\ref\BAI15B.dll

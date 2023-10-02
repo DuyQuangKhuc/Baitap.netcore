@@ -1,0 +1,15 @@
+D:\hoclai.net\Baitap\BAI16B\obj\Debug\net6.0\BAI16B.csproj.AssemblyReference.cache
+D:\hoclai.net\Baitap\BAI16B\obj\Debug\net6.0\BAI16B.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoclai.net\Baitap\BAI16B\obj\Debug\net6.0\BAI16B.AssemblyInfoInputs.cache
+D:\hoclai.net\Baitap\BAI16B\obj\Debug\net6.0\BAI16B.AssemblyInfo.cs
+D:\hoclai.net\Baitap\BAI16B\obj\Debug\net6.0\BAI16B.csproj.CoreCompileInputs.cache
+D:\hoclai.net\Baitap\BAI16B\bin\Debug\net6.0\BAI16B.exe
+D:\hoclai.net\Baitap\BAI16B\bin\Debug\net6.0\BAI16B.deps.json
+D:\hoclai.net\Baitap\BAI16B\bin\Debug\net6.0\BAI16B.runtimeconfig.json
+D:\hoclai.net\Baitap\BAI16B\bin\Debug\net6.0\BAI16B.dll
+D:\hoclai.net\Baitap\BAI16B\bin\Debug\net6.0\BAI16B.pdb
+D:\hoclai.net\Baitap\BAI16B\obj\Debug\net6.0\BAI16B.dll
+D:\hoclai.net\Baitap\BAI16B\obj\Debug\net6.0\refint\BAI16B.dll
+D:\hoclai.net\Baitap\BAI16B\obj\Debug\net6.0\BAI16B.pdb
+D:\hoclai.net\Baitap\BAI16B\obj\Debug\net6.0\BAI16B.genruntimeconfig.cache
+D:\hoclai.net\Baitap\BAI16B\obj\Debug\net6.0\ref\BAI16B.dll
