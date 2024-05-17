@@ -175,11 +175,11 @@ class SinhVienTaiChuc : SinhVien
         base.XuatThongTin();
         Console.WriteLine("Nơi liên kết đào tạo: " + NoiLienKet);
     }
-
+                 
 
 }
 
-// Lớp Khoa chứa thông tin về khoa và danh sách sinh viên đang theo học
+// Lớp Khoa chứa thông tin về khoa và danh sách sinh viên đang theo học hello
 class Khoa
 {
     public string TenKhoa { get; set; }

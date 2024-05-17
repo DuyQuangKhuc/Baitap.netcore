@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\hoclai.net\\Baitap\\Baitap.netcore\\BAI4\\BAI4.csproj": {}
+    "C:\\Users\\hoang\\OneDrive\\Desktop\\New folder (2)\\Baitap.netcore\\BAI4\\BAI4.csproj": {}
   },
   "projects": {
-    "D:\\hoclai.net\\Baitap\\Baitap.netcore\\BAI4\\BAI4.csproj": {
+    "C:\\Users\\hoang\\OneDrive\\Desktop\\New folder (2)\\Baitap.netcore\\BAI4\\BAI4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\hoclai.net\\Baitap\\Baitap.netcore\\BAI4\\BAI4.csproj",
+        "projectUniqueName": "C:\\Users\\hoang\\OneDrive\\Desktop\\New folder (2)\\Baitap.netcore\\BAI4\\BAI4.csproj",
         "projectName": "BAI4",
-        "projectPath": "D:\\hoclai.net\\Baitap\\Baitap.netcore\\BAI4\\BAI4.csproj",
+        "projectPath": "C:\\Users\\hoang\\OneDrive\\Desktop\\New folder (2)\\Baitap.netcore\\BAI4\\BAI4.csproj",
         "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-        "outputPath": "D:\\hoclai.net\\Baitap\\Baitap.netcore\\BAI4\\obj\\",
+        "outputPath": "C:\\Users\\hoang\\OneDrive\\Desktop\\New folder (2)\\Baitap.netcore\\BAI4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",

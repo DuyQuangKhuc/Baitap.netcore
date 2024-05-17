@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\hoclai.net\\Baitap\\Baitap.netcore\\Bai17\\Bai15c.csproj",
+      "projectUniqueName": "C:\\Users\\hoang\\OneDrive\\Desktop\\New folder (2)\\Baitap.netcore\\Bai17\\Bai15c.csproj",
       "projectName": "Bai15c",
-      "projectPath": "D:\\hoclai.net\\Baitap\\Baitap.netcore\\Bai17\\Bai15c.csproj",
+      "projectPath": "C:\\Users\\hoang\\OneDrive\\Desktop\\New folder (2)\\Baitap.netcore\\Bai17\\Bai15c.csproj",
       "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-      "outputPath": "D:\\hoclai.net\\Baitap\\Baitap.netcore\\Bai17\\obj\\",
+      "outputPath": "C:\\Users\\hoang\\OneDrive\\Desktop\\New folder (2)\\Baitap.netcore\\Bai17\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
